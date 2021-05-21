@@ -1,1 +1,1 @@
-This project has a demo <a href="https://vlad1427.github.io/guessTheButton/">here</a>
+This project has a demo [here](https://vladmrn.github.io/guessTheButton/)
